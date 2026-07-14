@@ -1,0 +1,1049 @@
+timestamp,campaign,qr_code,city,region,country,latitude,longitude,device,browser,scanner_id
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-00
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-02
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-04
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-06
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-08
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-10
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-12
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-14
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-16
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-18
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-20
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-22
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-24
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-26
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-28
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-30
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-32
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-34
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-36
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-38
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-40
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-42
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-44
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-46
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-48
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-50
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-52
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-54
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-56
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-58
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-60
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-62
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-64
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-66
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-68
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-70
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-72
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-74
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-76
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-78
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-80
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-82
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-84
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-86
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-88
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-90
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-92
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-94
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-96
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-98
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-100
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-102
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-104
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-106
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-108
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-110
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-112
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-114
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-116
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-118
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-120
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-122
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-124
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-126
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-128
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-130
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-132
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-134
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-136
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-138
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-140
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-142
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-144
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-146
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-148
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-150
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-152
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-154
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-156
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-158
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-160
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-162
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-164
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-166
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-168
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-170
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-172
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-174
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-176
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-178
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-180
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-182
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-184
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-186
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-188
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-190
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-192
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-194
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-196
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-198
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-200
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-202
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-204
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-206
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-208
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-210
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-212
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-214
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-216
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-218
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-220
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-222
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-224
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-226
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-228
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-230
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-232
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-234
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-236
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-238
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-240
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-242
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-244
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-246
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-248
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-250
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-252
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-254
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-256
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-258
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-260
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-262
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-264
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-266
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-268
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-270
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-272
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-274
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-276
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-278
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-280
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-282
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-284
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-286
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-288
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-290
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-292
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-294
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-296
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-298
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-300
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-302
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-304
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-306
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-308
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-310
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-312
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-314
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-316
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-318
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-320
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-322
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-324
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-326
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-328
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-330
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-332
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-334
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-336
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-338
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-340
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-342
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-344
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-346
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-348
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-350
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-352
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-354
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-356
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-358
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-360
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-362
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-364
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-366
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-368
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-370
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-372
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-374
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-376
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-378
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-380
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-382
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-384
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-386
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-388
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-390
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-392
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-394
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-396
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-398
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-400
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-402
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-404
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-406
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-408
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-410
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-412
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-414
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-416
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-418
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-420
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-422
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-424
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-426
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-428
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-430
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-432
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-434
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-436
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-438
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-440
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-442
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-444
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-446
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-448
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-450
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-452
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-454
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-456
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-458
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-460
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-462
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-464
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-466
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-468
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-470
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-472
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-474
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-476
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-478
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-480
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-482
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-484
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-486
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-488
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-490
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-492
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-494
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-496
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-498
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-500
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-502
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-504
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-506
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-508
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-510
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-512
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-514
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-516
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-518
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-520
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-522
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-524
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-526
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-528
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-530
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-532
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-534
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-536
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-538
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-540
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-542
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-544
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-546
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-548
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-550
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-552
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-554
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-556
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-558
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-560
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-562
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-564
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-566
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-568
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-570
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-572
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-574
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-576
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-578
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-580
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-582
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-584
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-586
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-588
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-590
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-592
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-594
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-596
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-598
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-600
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-602
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-604
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-606
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-608
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-610
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-612
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-614
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-616
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-618
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-620
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-622
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-624
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-626
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-628
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-630
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-632
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-634
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-636
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-638
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-640
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-642
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-644
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-646
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-648
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-650
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-652
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-654
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-656
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-658
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-660
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-662
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-664
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-666
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-668
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-670
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-672
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-674
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-676
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-678
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-680
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-682
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-684
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-686
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-688
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-690
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-692
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-694
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-696
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-698
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-700
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-702
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-704
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-706
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-708
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-710
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-712
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-714
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-716
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-718
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-720
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-722
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-724
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-726
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-728
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-730
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-732
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-734
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-736
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-738
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-00
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-02
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-04
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-06
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-08
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-10
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-12
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-14
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-16
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-18
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-20
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-22
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-24
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-26
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-28
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-30
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-32
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-34
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-36
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-38
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-40
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-42
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-44
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-46
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-48
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-50
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-52
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-54
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-56
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-58
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-60
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-62
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-64
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-66
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-68
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-70
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-72
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-74
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-76
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-78
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-80
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-82
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-84
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-86
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-88
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-90
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-92
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-94
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-96
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-98
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-100
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-102
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-104
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-106
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-108
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-110
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-112
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Delhi,Delhi,India,28.6139,77.209,Tablet,Chrome,anon-114
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Delhi,Delhi,India,28.6139,77.209,Mobile,Edge,anon-116
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Delhi,Delhi,India,28.6139,77.209,Desktop,Safari,anon-118
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Chrome,anon-120
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Delhi,Delhi,India,28.6139,77.209,Mobile,Samsung Internet,anon-122
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-432
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-434
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-436
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-438
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-440
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-442
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-444
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-446
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-448
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-450
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-452
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-454
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-456
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-458
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-460
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-462
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-464
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-466
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-468
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-470
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-472
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-474
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-476
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-478
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-480
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-482
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-484
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-486
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-488
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-490
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-492
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-494
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-496
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-498
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-500
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-502
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-504
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-506
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-508
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-510
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-512
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-514
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-516
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-518
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-520
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-522
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-524
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-526
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-528
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-530
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-532
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-534
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-536
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-538
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-540
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-542
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-544
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-546
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-548
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-550
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-552
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-554
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-556
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-558
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-560
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-562
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-564
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-566
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-568
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-570
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-572
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-574
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-576
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-578
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-580
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-582
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-584
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-586
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-588
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-590
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-592
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-594
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-596
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-598
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-600
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-602
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-604
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-606
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-608
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-610
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-612
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-614
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-616
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-618
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-620
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-622
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-624
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-626
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-628
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-630
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-632
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-634
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-636
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-638
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-640
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-642
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-644
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-646
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-648
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-650
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-652
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-654
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-656
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-658
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-660
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-662
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-664
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-666
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-668
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-670
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-672
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-674
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-676
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-678
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-680
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-682
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-684
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-686
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-688
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-690
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-692
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-694
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-696
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-698
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-700
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-702
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-704
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-706
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-708
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-710
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-712
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-714
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-716
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-718
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-720
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-722
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-724
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-726
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-728
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-730
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-732
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-734
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-736
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-738
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-00
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-02
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-04
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-06
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-08
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-10
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-12
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-14
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-16
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-18
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-20
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-22
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-24
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-26
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-28
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-30
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-32
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-34
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-36
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-38
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-40
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-42
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-44
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-46
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-48
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-50
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-52
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Noida,Uttar Pradesh,India,28.5355,77.391,Tablet,Chrome,anon-54
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Samsung Internet,anon-56
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Desktop,Chrome,anon-58
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Edge,anon-60
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Noida,Uttar Pradesh,India,28.5355,77.391,Mobile,Safari,anon-62
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-618
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-620
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-622
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-624
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-626
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-628
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-630
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-632
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-634
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-636
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-638
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-640
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-642
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-644
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-646
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-648
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-650
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-652
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-654
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-656
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-658
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-660
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-662
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-664
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-666
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-668
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-670
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-672
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-674
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-676
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-678
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-680
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-682
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-684
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-686
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-688
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-690
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-692
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-694
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-696
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-698
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-700
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-702
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-704
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-706
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-708
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-710
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-712
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-714
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-716
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-718
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-720
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-722
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-724
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-726
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-728
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-730
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-732
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-734
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-736
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-738
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-00
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-02
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-04
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-06
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-08
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-10
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-12
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-14
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-16
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-18
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-20
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-22
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-24
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-26
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-28
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-30
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-32
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-34
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-36
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-38
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-40
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-42
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-44
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-46
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-48
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-50
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-52
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-54
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-56
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-58
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-60
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-62
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-64
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-66
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-68
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-70
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-72
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-74
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-76
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-78
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-80
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-82
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-84
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-86
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-88
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-90
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-92
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-94
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-96
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-98
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-100
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-102
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-104
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-106
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-108
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-110
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-112
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-114
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-116
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-118
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-120
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-122
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-124
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-126
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-128
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-130
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-132
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-134
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-136
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-138
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-140
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-142
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-144
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-146
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-148
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-150
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Edge,anon-152
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Gurugram,Haryana,India,28.4595,77.0266,Tablet,Safari,anon-154
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Gurugram,Haryana,India,28.4595,77.0266,Mobile,Chrome,anon-156
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Gurugram,Haryana,India,28.4595,77.0266,Desktop,Samsung Internet,anon-158
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-19
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-21
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-23
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-25
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-27
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-29
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-31
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-33
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-35
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-37
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-39
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-41
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-43
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-45
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-47
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-49
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-51
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-53
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-55
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-57
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-59
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-61
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-63
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-65
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-67
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-69
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-71
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-73
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-75
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-77
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-79
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-81
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-83
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-85
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-87
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-89
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-91
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-93
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-95
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-97
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-99
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-101
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-103
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-105
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-107
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-109
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-111
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-113
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-115
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-117
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-119
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-121
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-123
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-125
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-127
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-129
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-131
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-133
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-135
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-137
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-139
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-141
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-143
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-145
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-147
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-149
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-151
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-153
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-155
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-157
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-159
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-161
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-163
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-165
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-167
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-169
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-171
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-173
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-175
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-177
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-179
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-181
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-183
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-185
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-187
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-189
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-191
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-193
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-195
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-197
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-199
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-201
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-203
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Samsung Internet,anon-205
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Chrome,anon-207
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Tablet,Edge,anon-209
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Mobile,Safari,anon-211
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Ghaziabad,Uttar Pradesh,India,28.6692,77.4538,Desktop,Chrome,anon-213
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-117
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-119
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-121
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-123
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-125
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-127
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-129
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-131
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-133
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-135
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-137
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-139
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-141
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-143
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-145
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-147
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-149
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-151
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-153
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-155
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-157
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-159
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-161
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-163
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-165
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-167
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-169
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-171
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-173
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-175
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-177
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-179
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-181
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-183
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-185
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-187
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-189
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-191
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-193
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-195
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-197
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-199
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-201
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-203
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-205
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-207
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-209
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-211
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-213
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-215
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-217
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-219
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-221
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-223
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-225
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-227
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-229
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-231
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-233
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-235
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-237
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-239
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-241
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-243
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-245
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-247
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-249
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-251
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-253
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-255
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-257
+2026-07-29T08:16:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-259
+2026-07-30T10:23:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-261
+2026-07-01T13:30:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-263
+2026-07-02T16:37:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-265
+2026-07-03T18:44:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-267
+2026-07-04T19:51:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-269
+2026-07-05T20:58:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Samsung Internet,anon-271
+2026-07-06T21:05:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Faridabad,Haryana,India,28.4089,77.3178,Desktop,Chrome,anon-273
+2026-07-07T08:12:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Edge,anon-275
+2026-07-08T10:19:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Faridabad,Haryana,India,28.4089,77.3178,Mobile,Safari,anon-277
+2026-07-09T13:26:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Faridabad,Haryana,India,28.4089,77.3178,Tablet,Chrome,anon-279
+2026-07-10T16:33:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-199
+2026-07-11T18:40:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-201
+2026-07-12T19:47:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-203
+2026-07-13T20:54:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-205
+2026-07-14T21:01:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-207
+2026-07-15T08:08:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-209
+2026-07-16T10:15:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-211
+2026-07-17T13:22:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-213
+2026-07-18T16:29:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-215
+2026-07-19T18:36:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-217
+2026-07-20T19:43:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-219
+2026-07-21T20:50:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-221
+2026-07-22T21:57:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-223
+2026-07-23T08:04:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-225
+2026-07-24T10:11:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-227
+2026-07-25T13:18:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-229
+2026-07-26T16:25:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-231
+2026-07-27T18:32:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-233
+2026-07-28T19:39:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-235
+2026-07-29T20:46:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-237
+2026-07-30T21:53:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-239
+2026-07-01T08:00:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-241
+2026-07-02T10:07:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-243
+2026-07-03T13:14:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-245
+2026-07-04T16:21:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-247
+2026-07-05T18:28:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-249
+2026-07-06T19:35:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-251
+2026-07-07T20:42:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-253
+2026-07-08T21:49:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-255
+2026-07-09T08:56:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-257
+2026-07-10T10:03:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-259
+2026-07-11T13:10:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-261
+2026-07-12T16:17:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-263
+2026-07-13T18:24:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-265
+2026-07-14T19:31:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-267
+2026-07-15T20:38:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-269
+2026-07-16T21:45:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-271
+2026-07-17T08:52:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-273
+2026-07-18T10:59:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-275
+2026-07-19T13:06:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-277
+2026-07-20T16:13:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-279
+2026-07-21T18:20:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-281
+2026-07-22T19:27:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-283
+2026-07-23T20:34:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-285
+2026-07-24T21:41:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-287
+2026-07-25T08:48:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-289
+2026-07-26T10:55:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-291
+2026-07-27T13:02:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-293
+2026-07-28T16:09:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-295
+2026-07-29T18:16:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-297
+2026-07-30T19:23:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-299
+2026-07-01T20:30:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-301
+2026-07-02T21:37:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-303
+2026-07-03T08:44:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-305
+2026-07-04T10:51:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-307
+2026-07-05T13:58:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-309
+2026-07-06T16:05:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-311
+2026-07-07T18:12:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-313
+2026-07-08T19:19:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-315
+2026-07-09T20:26:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-317
+2026-07-10T21:33:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-319
+2026-07-11T08:40:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-321
+2026-07-12T10:47:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-323
+2026-07-13T13:54:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-325
+2026-07-14T16:01:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-327
+2026-07-15T18:08:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-329
+2026-07-16T19:15:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-331
+2026-07-17T20:22:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-333
+2026-07-18T21:29:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-335
+2026-07-19T08:36:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-337
+2026-07-20T10:43:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-339
+2026-07-21T13:50:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-341
+2026-07-22T16:57:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-343
+2026-07-23T18:04:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-345
+2026-07-24T19:11:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-347
+2026-07-25T20:18:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-349
+2026-07-26T21:25:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-351
+2026-07-27T08:32:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-353
+2026-07-28T10:39:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-355
+2026-07-29T13:46:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-357
+2026-07-30T16:53:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-359
+2026-07-01T18:00:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-361
+2026-07-02T19:07:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-363
+2026-07-03T20:14:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-365
+2026-07-04T21:21:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-367
+2026-07-05T08:28:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-369
+2026-07-06T10:35:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-371
+2026-07-07T13:42:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-373
+2026-07-08T16:49:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-375
+2026-07-09T18:56:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-377
+2026-07-10T19:03:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-379
+2026-07-11T20:10:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-381
+2026-07-12T21:17:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-383
+2026-07-13T08:24:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-385
+2026-07-14T10:31:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-387
+2026-07-15T13:38:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-389
+2026-07-16T16:45:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-391
+2026-07-17T18:52:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-393
+2026-07-18T19:59:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-395
+2026-07-19T20:06:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-397
+2026-07-20T21:13:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-399
+2026-07-21T08:20:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-401
+2026-07-22T10:27:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-403
+2026-07-23T13:34:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-405
+2026-07-24T16:41:00+05:30,July Notebook QR Pilot,SCHOOL-PACK-01,Unknown,Unknown,India,,,Mobile,Chrome,anon-407
+2026-07-25T18:48:00+05:30,July Notebook QR Pilot,RETAIL-PARTNER-01,Unknown,Unknown,India,,,Tablet,Edge,anon-409
+2026-07-26T19:55:00+05:30,July Notebook QR Pilot,NCR-STATE-02,Unknown,Unknown,India,,,Mobile,Safari,anon-411
+2026-07-27T20:02:00+05:30,July Notebook QR Pilot,COVER-INSIDE-01,Unknown,Unknown,India,,,Desktop,Chrome,anon-413
+2026-07-28T21:09:00+05:30,July Notebook QR Pilot,NCR-STATE-01,Unknown,Unknown,India,,,Mobile,Samsung Internet,anon-415
